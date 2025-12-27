@@ -8,3 +8,4 @@ Multi-Category Conversion:
    Weight: Convert between Kilograms (Kg) and Grams (g).
    Temperature: Convert between Celsius (°C) and Fahrenheit (°F).
 Live History Tracking: View a scrollable list of your recent calculations within the app session.
+[Download Multi-Converter (.exe)](https://drive.google.com/file/d/1dYFrm-jYKyBV5uwoZeIBin5iiE8lvkQ7/view?usp=sharing)
